@@ -83,9 +83,9 @@ author:
   name             : "Charles Yang"
   avatar           : "profile-min.jpg"
   bio              : "5th Year Masters Student in Electrical Engineering and Computer Science at UC Berkeley"
-  location         : "Lost in the Zoom-verse"
+  location         : "Exactly one call away in the Zoom-verse"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=BYOREdwAAAAJ&hl=en"
   email            : "mailto: contact@charlesyang.io"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/charlesxjyang/
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/charlesxjyang/"
+  orcid            : "https://orcid.org/0000-0001-5115-5051"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
