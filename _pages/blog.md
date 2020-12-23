@@ -22,7 +22,7 @@ I also write about machine learning for scientific applications at [ML4Sci](http
 <iframe src="https://ml4sci.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
 </iframe>
 
-<!--
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
@@ -33,4 +33,3 @@ I also write about machine learning for scientific applications at [ML4Sci](http
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
--->
