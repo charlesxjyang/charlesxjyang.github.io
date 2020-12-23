@@ -16,3 +16,5 @@ Recently, I started a newsletter focusing on applications of machine learning to
 >    Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge Him,
     and He will make straight your paths. Be not wise in your own eyes;
     fear the Lord, and turn away from evil.
+
+*Last updated: 12/22/2020*
