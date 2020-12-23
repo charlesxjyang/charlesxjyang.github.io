@@ -20,7 +20,7 @@ Work experience
 ======
 
 * December 2018 - Present: Student Researcher at Lawrence Berkeley National Lab
-  * worked on interdisciplanary team of staff scientists to develop interpretable inverse design algorithms for optical material design
+  * worked on interdisciplinary team of staff scientists to develop interpretable inverse design algorithms for optical material design
   * used advanced mesh processing convolutional networks for design optimization
   * funded by ARPA-E DIFFERENTIATE grant
 
@@ -35,7 +35,6 @@ Work experience
 * October 2017 - September 2018: R&D Intern at Heliotrope Technologies
   * developed deep-learning based device controller for smart windows
   * implemented automated defect detection algorithm for batch-scale manufacturing processes
-  
 
 Publications
 ======

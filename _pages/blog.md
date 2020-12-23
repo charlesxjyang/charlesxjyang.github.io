@@ -6,14 +6,6 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
-<!--
-I write on <a href="https://medium.com/@charlesyang_32909" target="_blank">Medium</a> occasionally. Here are some of my top posts:
-
-I write about <a href="https://ml4sci.substack.com/" target="_blank">Machine Learning for Scientific Applications at ML4Sci</a>!
-
-<iframe src="https://ml4sci.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
-</iframe>
--->
 
 I write a free email newsletter covering the latest research articles and trends in applying machine learning to scientific applications at [ML4Sci](https://ml4sci.substack.com/)
 
