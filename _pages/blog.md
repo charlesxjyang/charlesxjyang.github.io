@@ -15,14 +15,18 @@ I write about <a href="https://ml4sci.substack.com/" target="_blank">Machine Lea
 </iframe>
 -->
 
-I write on [Medium](https://medium.com/@charlesyang_32909)
-
-I also write about machine learning for scientific applications at [ML4Sci](https://ml4sci.substack.com/)
+I write a free email newsletter covering the latest research articles and trends in applying machine learning to scientific applications at [ML4Sci](https://ml4sci.substack.com/)
 
 <iframe src="https://ml4sci.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
 </iframe>
 
+I also occasionally write on [Medium](https://medium.com/@charlesyang_32909). Here are some of my best articles:
+ - [Deep Learning in Science](https://towardsdatascience.com/deep-learning-in-science-fd614bb3f3ce)
+ - [AI is a Cybersecurity Threat](https://medium.com/@charlesyang_32909/ai-is-a-cybersecurity-threat-516e58e6e4df)
+ - [Interviewing OpenAI's GPT-2](https://towardsdatascience.com/interviewing-the-1-5b-gpt-2-model-by-openai-b7f30fbbb8a6)
+ - [An introduction to metal organic frameworks](https://medium.com/@charlesyang_32909/metal-organic-frameworks-a-brief-intro-9f8ced9500bb)
 
+<!--
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
@@ -33,3 +37,4 @@ I also write about machine learning for scientific applications at [ML4Sci](http
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+-->

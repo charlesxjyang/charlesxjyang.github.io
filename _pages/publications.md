@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can find a complete list of my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=BYOREdwAAAAJ&hl=en)
 {% include base_path %}
 
 <!--{% if author.googlescholar %}-->
-You can find a complete list of my articles on <u><a href="https://scholar.google.com/citations?user=BYOREdwAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
 <!--{% endif %}-->
 
 
