@@ -25,6 +25,7 @@ Currently working on:
  - How to form a more perfect union. And a more perfect commonwealth of Virginia
 
 Previously working on:
+ - I was an ARPA-E Tech-to-Market Summer Fellow during Summer 2021, working on AI and Quantum Computing for energy applications
  - My [5th year masters at UC Berkeley in the Electrical Engineering and Computer Science (EECS) department](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms) in Spring 2021, focusing on robust and secure AI. You can find [my thesis on defenses for AI security here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-90.html). 
  - I recently published two policy papers: one with [CSET@Georgetown on AI for science](https://cset.georgetown.edu/publication/machine-intelligence-for-scientific-discovery-and-engineering-invention/) and another with [DayOneProject on how to decarbonize the power grid](https://www.dayoneproject.org/post/building-back-with-a-cleaner-power-grid-for-america). 
  - Mostly exited academia, but you can [find my old publications here](https://scholar.google.com/citations?user=BYOREdwAAAAJ&hl=en). I collaborated the most with [Grace Gu, a mechanical engineering professor at UC Berkeley](https://me.berkeley.edu/people/grace-x-gu/), and the [Ravi Prasher group at Lawrence Berkeley National Lab in the Energy Technologies Area](https://eta.lbl.gov/). In both cases, I was applying [artificial intelligence models to different scientific applications](https://ml4sci.substack.com/).
