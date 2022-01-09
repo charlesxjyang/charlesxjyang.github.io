@@ -13,7 +13,7 @@ Hi, I'm Charles Yang! Welcome to my little island floating out in the vast inter
 Currently working on:
  - ministering to the youth at [Grace Chinese Baptist Church of Richmond (GCBCR)](http://www.gcbcr.org/)
  - Masters of Theological Studies seminary student at [Gordon Conwell Theological Seminary](https://www.gordonconwell.edu/)
- - ML Engineer at [SambaNova Systems](https://sambanova.ai/). SambaNova Systems is a startup that is bringing a new AI accelerator to market. We recently finished [raising a $670M Series D, with a $5B valuation](https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World%E2%80%99s-Best-Funded-AI-Startup).
+ - ML Engineer at [SambaNova Systems](https://sambanova.ai/). SambaNova Systems is a startup that is bringing a new AI accelerator to market. We recently finished [raising a \$670M Series D, with a \$5B valuation](https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World%E2%80%99s-Best-Funded-AI-Startup).
  - Research Consultant at [Actuate](https://actuateinnovation.org/) focusing on carbon dioxide removal. [Actuate](https://actuateinnovation.org/) is a new type of innovation non-profit, [founded by ex-DARPA managers](https://actuateinnovation.org/about/arati-prabhakar/)
  - Part of the [Interact](https://joininteract.com/) and [Reboot](https://reboothq.substack.com/about) communities, among others.
  
