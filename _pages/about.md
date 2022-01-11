@@ -23,6 +23,7 @@ Currently working on:
  - [Dune](https://en.wikipedia.org/wiki/Dune_(novel))
  - What I like and don't like about progress studies/effective altruism (having spent my [2020 Summer doing the Oxford EA In-depth Fellowship](https://eaoxford.com/indepthresources))
  - How to form a more perfect union. And a more perfect commonwealth of Virginia
+ - Trying to understand supply chains and the modern financial economy
 
 Previously working on:
  - I was an ARPA-E Tech-to-Market Summer Fellow during Summer 2021, working on AI and Quantum Computing for energy applications
