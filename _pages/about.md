@@ -15,12 +15,12 @@ Currently working on:
  - Masters of Theological Studies seminary student at [Gordon Conwell Theological Seminary](https://www.gordonconwell.edu/)
  - ML Engineer at [SambaNova Systems](https://sambanova.ai/). SambaNova Systems is a startup that is bringing a new AI accelerator to market. We recently finished [raising a \\$670M Series D, with a \\$5B valuation](https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World%E2%80%99s-Best-Funded-AI-Startup).
  - Research Consultant at [Actuate](https://actuateinnovation.org/) focusing on carbon dioxide removal. [Actuate](https://actuateinnovation.org/) is a new type of innovation non-profit, [founded by ex-DARPA managers](https://actuateinnovation.org/about/arati-prabhakar/)
+ - Co-host of the [OpenAir Collective](https://openaircollective.cc/) show [CDR Horizons, a seminar series covering the cutting edge of carbon removal research](https://www.youtube.com/playlist?list=PL1je2pACUAbKvdd-gu4uTIw8VqHTMh7Tr)
  - Part of the [Interact](https://joininteract.com/) and [Reboot](https://reboothq.substack.com/about) communities, among others.
  
  Currently thinking about:
  - How to encourage right-to-repair and battery recycling
  - The insane technology/cultural adoption curves necessary to fight climate change, spanning from building codes to carbon dioxide removal to transmission planning to bike lanes
- - [Dune](https://en.wikipedia.org/wiki/Dune_(novel))
  - What I like and don't like about progress studies/effective altruism (having spent my [2020 Summer doing the Oxford EA In-depth Fellowship](https://eaoxford.com/indepthresources))
  - How to form a more perfect union. And a more perfect commonwealth of Virginia
  - Trying to understand supply chains and the modern financial economy
@@ -36,4 +36,4 @@ Previously working on:
     and He will make straight your paths. Be not wise in your own eyes;
     fear the Lord, and turn away from evil.
 
-*Last updated: 11/19/2021*
+*Last updated: 05/26/2021*
