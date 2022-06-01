@@ -20,6 +20,7 @@ Currently working on:
  
  Currently thinking about:
  - How to encourage right-to-repair and battery recycling
+ - phytomining([ARPA-E RFI Response](../assets/Phytomining RFI Response.pdf)), biomass-based carbon sequestration and hydrogen generation, and mass timber
  - The insane technology/cultural adoption curves necessary to fight climate change, spanning from building codes to carbon dioxide removal to transmission planning to bike lanes
  - What I like and don't like about progress studies/effective altruism (having spent my [2020 Summer doing the Oxford EA In-depth Fellowship](https://eaoxford.com/indepthresources))
  - How to form a more perfect union. And a more perfect commonwealth of Virginia
