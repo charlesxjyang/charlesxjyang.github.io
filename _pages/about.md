@@ -25,6 +25,7 @@ Currently working on:
  - What I like and don't like about progress studies/effective altruism (having spent my [2020 Summer doing the Oxford EA In-depth Fellowship](https://eaoxford.com/indepthresources))
  - How to form a more perfect union. And a more perfect commonwealth of Virginia
  - Trying to understand supply chains and the modern financial economy
+ - political economy and state capacity
 
 Previously working on:
  - I was an ARPA-E Tech-to-Market Summer Fellow during Summer 2021, working on AI and Quantum Computing for energy applications
@@ -37,4 +38,4 @@ Previously working on:
     and He will make straight your paths. Be not wise in your own eyes;
     fear the Lord, and turn away from evil.
 
-*Last updated: 05/26/2021*
+*Last updated: 08/15/2022*
