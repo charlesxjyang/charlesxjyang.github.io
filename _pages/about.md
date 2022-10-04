@@ -10,6 +10,10 @@ redirect_from:
 
 Hi, I'm Charles Yang! Welcome to my little island floating out in the vast internet! 
 
+I'm trying to structure my thoughts more coherently by writing more - follow along for the journey if you want!
+
+<iframe src="https://charlesyang.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 Currently working on:
  - ministering to the youth at [Grace Chinese Baptist Church of Richmond (GCBCR)](http://www.gcbcr.org/)
  - Masters of Theological Studies seminary student at [Gordon Conwell Theological Seminary](https://www.gordonconwell.edu/)
@@ -28,7 +32,7 @@ Currently working on:
  - political economy and state capacity
 
 Previously working on:
- - I was an ARPA-E Tech-to-Market Summer Fellow during Summer 2021, working on AI and Quantum Computing for energy applications
+ - I was an ARPA-E Tech-to-Market Summer Fellow during Summer 2021, working on AI and Quantum Computing for energy applications. [I wrote a brief post about my time at ARPA-E and examples of path criticality in quantun computing](https://charlesyang.substack.com/p/real-life-examples-of-path-criticality)
  - My [5th year masters at UC Berkeley in the Electrical Engineering and Computer Science (EECS) department](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms) in Spring 2021, focusing on robust and secure AI. You can find [my thesis on defenses for AI security here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-90.html). 
  - I recently published two policy papers: one with [CSET@Georgetown on AI for science](https://cset.georgetown.edu/publication/machine-intelligence-for-scientific-discovery-and-engineering-invention/) and another with [DayOneProject on how to decarbonize the power grid](https://www.dayoneproject.org/post/building-back-with-a-cleaner-power-grid-for-america). 
  - Mostly exited academia, but you can [find my old publications here](https://scholar.google.com/citations?user=BYOREdwAAAAJ&hl=en). I collaborated the most with [Grace Gu, a mechanical engineering professor at UC Berkeley](https://me.berkeley.edu/people/grace-x-gu/), and the [Ravi Prasher group at Lawrence Berkeley National Lab in the Energy Technologies Area](https://eta.lbl.gov/). In both cases, I was applying [artificial intelligence models to different scientific applications](https://ml4sci.substack.com/).
