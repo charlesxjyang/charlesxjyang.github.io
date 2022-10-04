@@ -7,9 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-I write a free email newsletter covering the latest research articles and trends in applying machine learning to scientific applications at [ML4Sci](https://ml4sci.substack.com/)
-
-<iframe src="https://ml4sci.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+<iframe src="https://charlesyang.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
 </iframe>
 
 I also occasionally write on [Medium](https://medium.com/@charlesyang_32909). Here are some of my best articles:
