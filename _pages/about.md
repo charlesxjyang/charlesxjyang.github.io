@@ -15,26 +15,22 @@ I'm trying to structure my thoughts more coherently by writing more - follow alo
 <iframe src="https://charlesyang.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 Currently working on:
- - ministering to the youth at [Grace Chinese Baptist Church of Richmond (GCBCR)](http://www.gcbcr.org/)
+ - Energy Supply Chain Fellow at the Department of Energy (via ORISE) in the [Office of Manufacturing and Energy Supply Chains](https://www.energy.gov/mesc/office-manufacturing-and-energy-supply-chains)
+ - Founder of the [YIMBY chapter in Richmond, VA] (https://www.energy.gov/mesc/office-manufacturing-and-energy-supply-chains)
  - Masters of Theological Studies seminary student at [Gordon Conwell Theological Seminary](https://www.gordonconwell.edu/)
- - ML Engineer at [SambaNova Systems](https://sambanova.ai/). SambaNova Systems is a startup that is bringing a new AI accelerator to market. We recently finished [raising a \\$670M Series D, with a \\$5B valuation](https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World%E2%80%99s-Best-Funded-AI-Startup).
- - Research Consultant at [Actuate](https://actuateinnovation.org/) focusing on carbon dioxide removal. [Actuate](https://actuateinnovation.org/) is a new type of innovation non-profit, [founded by ex-DARPA managers](https://actuateinnovation.org/about/arati-prabhakar/)
- - Co-host of the [OpenAir Collective](https://openaircollective.cc/) show [CDR Horizons, a seminar series covering the cutting edge of carbon removal research](https://www.youtube.com/playlist?list=PL1je2pACUAbKvdd-gu4uTIw8VqHTMh7Tr)
  - Part of the [Interact](https://joininteract.com/) and [Reboot](https://reboothq.substack.com/about) communities, among others.
  
  Currently thinking about:
- - How to encourage right-to-repair and battery recycling
- - phytomining([ARPA-E RFI Response](https://charlesxjyang.github.io/assets/phytomining%20RFI%20response.pdf)), biomass-based carbon sequestration and hydrogen generation, and mass timber
- - The insane technology/cultural adoption curves necessary to fight climate change, spanning from building codes to carbon dioxide removal to transmission planning to bike lanes
- - What I like and don't like about progress studies/effective altruism (having spent my [2020 Summer doing the Oxford EA In-depth Fellowship](https://eaoxford.com/indepthresources))
+ - how to be an effective operator in large political bureaucracies and as a local community organizer and advocate
  - How to form a more perfect union. And a more perfect commonwealth of Virginia
  - Trying to understand supply chains and the modern financial economy
  - political economy and state capacity
 
 Previously working on:
+ - ML Engineer at [SambaNova Systems](https://sambanova.ai/). SambaNova Systems is a startup that is bringing a new AI accelerator to market. We recently finished [raising a \\$670M Series D, with a \\$5B valuation](https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World%E2%80%99s-Best-Funded-AI-Startup).
+ - Research Consultant at [Actuate](https://actuateinnovation.org/) focusing on carbon dioxide removal. [Actuate](https://actuateinnovation.org/) is a new type of innovation non-profit, [founded by ex-DARPA managers](https://actuateinnovation.org/about/arati-prabhakar/)
  - I was an ARPA-E Tech-to-Market Summer Fellow during Summer 2021, working on AI and Quantum Computing for energy applications. [I wrote a brief post about my time at ARPA-E and examples of path criticality in quantun computing](https://charlesyang.substack.com/p/real-life-examples-of-path-criticality)
  - My [5th year masters at UC Berkeley in the Electrical Engineering and Computer Science (EECS) department](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms) in Spring 2021, focusing on robust and secure AI. You can find [my thesis on defenses for AI security here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-90.html). 
- - I recently published two policy papers: one with [CSET@Georgetown on AI for science](https://cset.georgetown.edu/publication/machine-intelligence-for-scientific-discovery-and-engineering-invention/) and another with [DayOneProject on how to decarbonize the power grid](https://www.dayoneproject.org/post/building-back-with-a-cleaner-power-grid-for-america). 
  - Mostly exited academia, but you can [find my old publications here](https://scholar.google.com/citations?user=BYOREdwAAAAJ&hl=en). I collaborated the most with [Grace Gu, a mechanical engineering professor at UC Berkeley](https://me.berkeley.edu/people/grace-x-gu/), and the [Ravi Prasher group at Lawrence Berkeley National Lab in the Energy Technologies Area](https://eta.lbl.gov/). In both cases, I was applying [artificial intelligence models to different scientific applications](https://ml4sci.substack.com/).
 
 
@@ -42,4 +38,4 @@ Previously working on:
     and He will make straight your paths. Be not wise in your own eyes;
     fear the Lord, and turn away from evil.
 
-*Last updated: 08/15/2022*
+*Last updated: 04/11/2022*
