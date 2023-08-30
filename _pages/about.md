@@ -16,7 +16,7 @@ I'm trying to structure my thoughts more coherently by writing more - follow alo
 
 Currently working on:
  - Energy Supply Chain Fellow at the Department of Energy (via ORISE) in the [Office of Manufacturing and Energy Supply Chains](https://www.energy.gov/mesc/office-manufacturing-and-energy-supply-chains)
- - Founder of the [YIMBY chapter in Richmond, VA] (https://www.energy.gov/mesc/office-manufacturing-and-energy-supply-chains)
+ - Founder of the [YIMBY chapter in Richmond, VA](https://www.rvayimby.org/)
  - Masters of Theological Studies seminary student at [Gordon Conwell Theological Seminary](https://www.gordonconwell.edu/)
  - Part of the [Interact](https://joininteract.com/) and [Reboot](https://reboothq.substack.com/about) communities, among others.
  
