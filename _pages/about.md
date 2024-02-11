@@ -16,7 +16,7 @@ I'm trying to structure my thoughts more coherently by writing more - follow alo
 
 Currently working on:
  - Energy Supply Chain Fellow at the Department of Energy (via ORISE) in the [Office of Manufacturing and Energy Supply Chains](https://www.energy.gov/mesc/office-manufacturing-and-energy-supply-chains)
- - Founder of the [YIMBY chapter in Richmond, VA](https://www.rvayimby.org/)
+ - Founder of the [YIMBY chapter in Richmond, VA](https://www.rvayimby.org/) and [RVA E-Bikes](https://ebikelibraryrva.org/), which provides a free e-bike library and e-bike rebates for Richmond public school teachers and Richmond city employees. 
  - Masters of Theological Studies seminary student at [Gordon Conwell Theological Seminary](https://www.gordonconwell.edu/)
  - Part of the [Interact](https://joininteract.com/) and [Reboot](https://reboothq.substack.com/about) communities, among others.
  
@@ -38,4 +38,4 @@ Previously working on:
     and He will make straight your paths. Be not wise in your own eyes;
     fear the Lord, and turn away from evil.
 
-*Last updated: 04/11/2022*
+*Last updated: 02/11/2024*
