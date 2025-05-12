@@ -13,7 +13,7 @@ body {
 .sidebar {
   width: 220px;
   background: #fff;
-  padding: 20px;
+  padding: 1.5rem;
   border-right: 1px solid #eee;
   text-align: center;
 }
@@ -52,9 +52,48 @@ main {
 .top-nav a {
   text-decoration: none;
   font-weight: bold;
+  font-size: 1rem;
 }
+
+.top-nav a,
+.social-links a {
+  padding: 0.5em;
+  display: inline-block;
+}
+
 
 .about a {
   color: #007acc;
   text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    text-align: center;
+    border-right: none;
+    border-bottom: 1px solid #eee;
+  }
+
+  .main-content {
+    padding: 20px;
+  }
+
+  .top-nav {
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
