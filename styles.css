@@ -69,27 +69,38 @@ main {
   text-decoration: underline;
 }
 
+.mobile-links {
+  display: none;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #888;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+.mobile-links a {
+  color: #888;
+  text-decoration: none;
+  margin: 0 0.4rem;
+}
+
+.mobile-links a:hover {
+  color: #000;
+}
+
 @media (max-width: 768px) {
   .sidebar {
-    width: 140px; /* stays narrow */
-    border-right: none;
-    padding: 0.75rem;
-    font-size: 0.8rem;
+    display: none;
+  }
+
+  .mobile-links {
+    display: block;
   }
 
   .container {
     flex-direction: column;
     align-items: center;
   }
-
-  .main-content {
-    padding: 20px;
-  }
-
-  .top-nav {
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-  }
 }
+
 
