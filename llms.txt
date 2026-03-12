@@ -1,0 +1,46 @@
+# Charles Yang
+
+> AI for Science Fellow at Renaissance Philanthropy, building bipartisan coalition for industrial policy at the Center for Industrial Strategy. Writes about science policy, scientific instrumentation, and industrial strategy on the Republic of Science Substack. Angel investor.
+
+## Current Roles
+
+- AI for Science Fellow at [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/)
+- Building bipartisan coalition for industrial policy at the [Center for Industrial Strategy](https://industrialstrategy.org)
+- Angel investor, bullish on [Corridor](https://corridor.dev/) and [Substrate](https://www.substrate.industries/)
+
+## Writing
+
+- [Republic of Science Substack](https://charlesyang.substack.com/)
+- [Technological Progress in Chinese Political Culture: An Intellectual Genealogy](https://americanaffairsjournal.org/2025/02/technological-progress-in-chinese-political-culture-an-intellectual-genealogy/) — American Affairs
+- [Auto Manufacturing, China, and Trump](https://foreignpolicy.com/2025/03/04/auto-manufacturing-china-trump-cars/) — Foreign Policy Magazine
+
+## Research & Projects
+
+- BenchSignal: dataset on scientific instrument adoption
+- ORCID-GitHub linkage research on Claude Code adoption among scientists
+- Rickover Corpus
+- Techno-Industrial Forum
+- [The First Compute Arms Race: the Early History of Numerical Weather Prediction](https://charlesyang.io/assets/Supercomputing_and_Weather_Forecasting.pdf) (PDF)
+- [Phytomining RFI Response](https://charlesyang.io/assets/phytomining%20RFI%20response.pdf) (PDF)
+
+## Previous Work
+
+- U.S. Department of Energy
+- [SambaNova Systems](https://sambanova.ai)
+- Founded [RVA YIMBY](https://rvayimby.org), a YIMBY group
+- Ran an e-bike lending library
+
+## Fellowships & Awards
+
+- [Emergent Ventures #43](https://marginalrevolution.com/marginalrevolution/2025/06/emergent-ventures-winners-43rd-cohort.html)
+- [Cosmos Grants](https://blog.cosmos-institute.org/p/announcing-cosmos-ventures)
+- [Interact Fellowship](https://joininteract.com/)
+
+## Social & Contact
+
+- Twitter: [@charlesxjyang](https://twitter.com/charlesxjyang)
+- [LinkedIn](https://linkedin.com/in/charlesxjyang)
+- [Google Scholar](https://scholar.google.com/citations?user=BYOREdwAAAAJ&hl=en) (profile ID: BYOREdwAAAAJ)
+- [Goodreads](https://www.goodreads.com/user/show/115083557-charles)
+- [Curius](https://curius.app/charles-yang/)
+- Email: contact [at] charlesyang.io
