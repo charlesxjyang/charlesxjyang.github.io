@@ -2,13 +2,7 @@
 
 *Originally published on [Substack](https://republicofscience.substack.com/p/ml4sci-38-finding-signal-in-the-noise)*
 
-*The views expressed in this blog are entirely my own and do not necessarily represent the views of the Department of Energy or the United States Government.*
-
-I recently changed jobs! I've transitioned away from working directly on AI to focus on energy supply chains at the Department of Energy (via ORISE). If you'd like to read more about that transition, you can do so here: [Why I quit working at an AI startup to join the Department of Energy](https://charlesyang.substack.com/p/why-i-quit-working-at-an-ai-startup)
-
-In any case, I wanted to use this space to cover another AI x Science trend I've noticed that I wanted to aggregate and highlight.
-
-## Finding Signal in the Noise
+## Finding Signal From Noise
 
 Our world is bathed in a variety of signals and spectrums: acoustic, electromagnetic, chemical. The increasing digitization of data, commoditization of advanced sensors, and the use of AI to parse through complexity in search of signal, is allowing for increasingly clever ways of uncovering patterns in noise, with implications for privacy and communication. This is my living repository of some creative ways of finding signal.
 
