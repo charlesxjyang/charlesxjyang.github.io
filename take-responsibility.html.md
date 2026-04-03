@@ -22,11 +22,25 @@ The unwillingness to act and to accept responsibility is a symptom of America's 
 
 Rickover during congressional testimony on who was responsible for the success, or failure, of Naval Reactors:
 
-*Rickover Effect, page 166-167*
+But the lesson, I suggest, is this: You have yet to bring forth an individual in that program who will say to you, "I am responsible." They rotate people and delegate responsibility in the usual military way. You do not have that problem with my program. I have many people carrying out tasks in the program, and I hold them accountable to me for those tasks. But if anything goes wrong in my program, is there any doubt in your minds who is responsible? I will tell you right now, in case there is any uncertainty about it: I am responsible. And I will never try to tell you otherwise. You may call me up before you, and I will answer for whatever happens.
+
+CHAIRMAN: We understand that, Admiral, and we value it.
+
+RICKOVER: Don't be fooled. I heard an Army general testifying the other day to the Atomic Energy Commission about the proposed nuclear-powered battle tank. The commissioners were concerned about safety, and they asked this general some questions about it. He looked them in the eye and said with great earnestness, "Gentlemen, I take full responsibility for this project." But that general won't be around when and if that project ever comes to fruition. He'll be rotated or retired. I won't. That's the difference.
+
+— *Rickover Effect, page 166-167*
 
 One anecdote of how Rickover distributed overlapping fields of responsibility and how he reprimanded his team for not taking responsibility of seemingly small potential issues. For context: an unknown corrosion product was building up during testing of the first nuclear reactor designs.
 
-*Rickover effect, page 127*
+"Rockwell: Are there any implications here for safety? Does it matter to you if pumps or valves freeze up or reactor control rods stick?"
+
+"Yes, sir. That would be disastrous, but . . ."
+
+"Dammit, then it's your responsibility to tell me so. One hundred percent your responsibility. It's also 100 percent Marks's, because the pumps and valves are his. And if he weren't out of town, he'd be here and I'd be chewing him out too. And it's 100 percent Panoff's, because he's submarine project officer. And it's 100 percent Geiger's, because he's in charge of the Pittsburgh office. The existence of these other guys doesn't change your responsibility one whit. Do you guys all understand that? I don't want to have to keep going over that point again."
+
+It turned out that the sticking of valves and bearings and the buildup of radioactive corrosion products were two aspects of a real problem, which came within a hairbreadth of dooming the entire pressurized-water reactor concept, the concept on which nearly all of the world's nuclear power plants are based.
+
+— *Rickover effect, page 127*
 
 ## Mr. Beast
 
@@ -34,7 +48,13 @@ One anecdote of how Rickover distributed overlapping fields of responsibility an
 
 From the leaked [Mr. Beast playbook](https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view): responsibility is never delegated, but always something that must be owned.
 
+people do and it's one of the reasons why we fail so much. I want you to look them in the eyes and tell them they are the bottleneck and take it a step further and explain why they are the bottleneck so you both are on the same page. "Tyler, you are my bottleneck. I have 45 days to make this video happen and I can not begin to work on it until I know what the contents of the video is. I need you to confirm you understand this is important and we need to set a date on when the creative will be done." Now this person who also has tons of shit going on is aware of how important this discussion is and you guys can prio it accordingly. Now let's say Tyler and you agree it will be done in 5 days. YOU DON'T GET TO SET A REMINDER FOR 5 DAYS AND NOT TALK TO HIM FOR 5 DAYS! Every single day you must check in on Tyler and make sure he is still on track to hit the target date. I want less excuses in this company. Take ownership and don't give your project a chance to fail. Dumping your bottleneck on someone and then just walking away until it's done is lazy and it gives room for error and I want you to have a mindset that God himself couldn't stop you from making this video on time. Check. In. Daily. Leave. No. Room. For. Error.
+
 Taking responsibility requires clear ownership:
+
+Communication Lines
+
+It's very important as a company we maintain proper communication lines. On set and off set. There is always someone responsible for everything on the video and if multiple people are responsible for the same thing, then that's a problem and needs to be fixed immediately. Ideally when communicating across departments you go up and then over. If you skip and just go below you.
 
 ## Deng Xiaoping
 
@@ -42,7 +62,9 @@ Taking responsibility requires clear ownership:
 
 Deng recognized the need for greater dynamism in the party bureaucracy, to orient more on economic growth and results, rather than ideological correctness:
 
-*Deng Xiaoping by Ezra Vogel*
+On February 29, the last day of the Fifth Plenum, Deng spelled out what he expected from the party—efficient administration. Sounding like a factory manager with a military background, he said, "Meetings should be small and short, and they should not be held at all unless the participants have prepared. . . . If you don't have anything to say, save your breath. . . . The only reason to hold meetings and to speak at them is to solve problems. . . . There should be collective leadership in settling major issues. But when it comes to particular jobs or to decisions affecting a particular sphere, individual responsibility must be clearly defined and each person should be held responsible for the work entrusted to him."
+
+— *Deng Xiaoping* by Ezra Vogel
 
 And in a separate address from Deng to the CCP leadership at the beginning of his tenure (emphasis my own):
 
@@ -72,7 +94,9 @@ If a man would escape all responsibility he must place himself wholly outside of
 
 ## Steve Jobs
 
-*[Inside Apple](https://fortune.com/article/inside-apple/)*
+One such lesson could be called the "Difference Between the Janitor and the Vice President," and it's a sermon Jobs delivers every time an executive reaches the VP level. Jobs imagines his garbage regularly not being emptied in his office, and when he asks the janitor why, he gets an excuse: The locks have been changed, and the janitor doesn't have a key. This is an acceptable excuse coming from someone who empties trash bins for a living. The janitor gets to explain why something went wrong. Senior people do not. "When you're the janitor," Jobs has repeatedly told incoming VPs, "reasons matter." He continues: "Somewhere between the janitor and the CEO, reasons stop mattering." That "Rubicon," he has said, "is crossed when you become a VP." (Apple has about 70 vice presidents out of more than 25,000 non-retail-store employees.)
+
+— [Inside Apple](https://fortune.com/article/inside-apple/)
 
 ## Elon Musk/SpaceX
 

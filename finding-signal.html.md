@@ -1,6 +1,6 @@
-# ML4Sci #38: Finding Signal in the Noise
+# Finding Signal From Noise
 
-*Originally published on [Republic of Science / ML4Sci](https://republicofscience.substack.com/p/ml4sci-38-finding-signal-in-the-noise)*
+*Originally published on [Substack](https://republicofscience.substack.com/p/ml4sci-38-finding-signal-in-the-noise)*
 
 *The views expressed in this blog are entirely my own and do not necessarily represent the views of the Department of Energy or the United States Government.*
 
