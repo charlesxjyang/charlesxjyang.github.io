@@ -23,6 +23,11 @@
 - [The First Compute Arms Race: the Early History of Numerical Weather Prediction](https://charlesyang.io/assets/Supercomputing_and_Weather_Forecasting.pdf) (PDF)
 - [Phytomining RFI Response](https://charlesyang.io/assets/phytomining%20RFI%20response.pdf) (PDF)
 
+## Other Writing
+
+- [Take Responsibility](https://charlesyang.io/take-responsibility.html)
+- [ML4Sci #38: Finding Signal in the Noise](https://charlesyang.io/finding-signal.html)
+
 ## Previous Work
 
 - U.S. Department of Energy
