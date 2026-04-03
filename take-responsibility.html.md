@@ -8,7 +8,7 @@ When founders say they want to hire "passionate people", what they really mean i
 
 By that same logic, we find a life without responsibilities, without cares or burdens, is but an empty and apathetic shell. There is no greater freedom or empowerment than choosing (and being able) to take responsibility and no greater measure of the weight of one's life than the responsibilities chosen to borne. You can choose to take responsibility for something, big or small, today - the freedom to have agency in the world is yours for the taking![3](#fn3)[4](#fn4)[5](#fn5)
 
-This is meant to be a living repository of sucessful organizations or leaders that create environments for taking responsibility. Comment/reply any additional examples![6](#fn6)
+This is meant to be a living repository of sucessful organizations or leaders that create environments for taking responsibility.[6](#fn6)
 
 ## Admiral Hyman Rickover
 
