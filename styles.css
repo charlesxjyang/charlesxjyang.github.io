@@ -46,9 +46,6 @@ main {
   line-height: 1.6;
 }
 
-.about {
-  max-width: 650px;
-}
 
 .top-nav {
   display: flex;
