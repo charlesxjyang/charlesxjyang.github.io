@@ -1,7 +1,5 @@
 # Finding Signal From Noise
 
-*Originally published on [Substack](https://republicofscience.substack.com/p/ml4sci-38-finding-signal-in-the-noise)*
-
 ## Finding Signal From Noise
 
 Our world is bathed in a variety of signals and spectrums: acoustic, electromagnetic, chemical. The increasing digitization of data, commoditization of advanced sensors, and the use of AI to parse through complexity in search of signal, is allowing for increasingly clever ways of uncovering patterns in noise, with implications for privacy and communication. This is my living repository of some creative ways of finding signal.

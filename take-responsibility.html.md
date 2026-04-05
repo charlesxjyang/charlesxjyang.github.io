@@ -1,7 +1,5 @@
 # Take Responsibility
 
-*Originally published on [Substack](https://substack.com/@charlesyangp/take-responsibility)*
-
 There is a saying: "Happy families are all alike; every unhappy family is unhappy in its own way". I am convinced the same is true of effective organizations. One of those key similarities is the requirement that effective organizations require their members to **take responsibility**.[1](#fn1)
 
 When founders say they want to hire "passionate people", what they really mean is they want to hire people who are willing to take responsibility, to truly own, to treat the company and its problems as their own.[2](#fn2) In this sense, it can also be called a form of love. For what is love if not the declaration, "Your problems are my problems"?
