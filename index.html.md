@@ -10,7 +10,7 @@ Currently:
 
 Previously, I worked at the U.S. Department of Energy, [Sambanova](https://sambanova.ai), and a few other places. I also founded a [YIMBY group in my hometown](https://rvayimby.org) and ran an e-bike lending library
 
-I occasionally write on [my substack](https://charlesyang.substack.com)
+I occasionally write on [my substack](https://substack.com/@charlesyang)
 
 Words also in [American Affairs](https://americanaffairsjournal.org/2025/02/technological-progress-in-chinese-political-culture-an-intellectual-genealogy/) and [Foreign Policy Magazine](https://foreignpolicy.com/2025/03/04/auto-manufacturing-china-trump-cars/)
 

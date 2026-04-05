@@ -1,6 +1,6 @@
 # Take Responsibility
 
-*Originally published on [Substack](https://charlesyang.substack.com/p/take-responsibility)*
+*Originally published on [Substack](https://substack.com/@charlesyangp/take-responsibility)*
 
 There is a saying: "Happy families are all alike; every unhappy family is unhappy in its own way". I am convinced the same is true of effective organizations. One of those key similarities is the requirement that effective organizations require their members to **take responsibility**.[1](#fn1)
 
@@ -132,7 +132,7 @@ I regularly speak with former Palantir FDE's who have taken roles at these compa
 
 - I recognize that obviously it is not possible to take responsibility for every "insert global problem". Obviously, there are always circumstances that prevent someone from taking ownership and being empowered to be responsible for something. Trust me, I work in government. It is the role of good leaders to, as Deng says, extend authority, so that responsibility is given with the appropriate sphere of authority. These can all be true and yet it can still be the case that far too many people lack the willingness to **take responsibility**. [↑](#fnref3)
 
-- Many of the more personal posts on this substack trace the evolution of how I slowly decided to take greater responsibility in my life: from [leaving a startup to take a more active role working on climate policy](https://charlesyang.substack.com/p/why-i-quit-working-at-an-ai-startup) in the federal government to taking on responsibility for the development of my hometown [[constituent organizing](https://charlesyang.substack.com/p/field-notes-of-an-organizer)][[YIMBY](https://charlesyang.substack.com/p/field-notes-of-an-organizer-273)][[e-bikes](https://charlesyang.substack.com/p/field-notes-of-an-organizer-937)], the city where I was born, raised, and that I deeply love. [↑](#fnref4)
+- Many of the more personal posts on this substack trace the evolution of how I slowly decided to take greater responsibility in my life: from [leaving a startup to take a more active role working on climate policy](https://substack.com/@charlesyangp/why-i-quit-working-at-an-ai-startup) in the federal government to taking on responsibility for the development of my hometown [[constituent organizing](https://substack.com/@charlesyangp/field-notes-of-an-organizer)][[YIMBY](https://substack.com/@charlesyangp/field-notes-of-an-organizer-273)][[e-bikes](https://substack.com/@charlesyangp/field-notes-of-an-organizer-937)], the city where I was born, raised, and that I deeply love. [↑](#fnref4)
 
 - And of course, we have very famous instances where individuals in history tried to unsucessfully absolve themselves of responsibility. [↑](#fnref5)
 
