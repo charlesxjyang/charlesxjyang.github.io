@@ -51,9 +51,3 @@ Fingerprinting agricultural products for supply chain integrity: [using microsco
 Plants as surveillance: [DARPA program exploring using plants as chemical sensors e.g. nuclear non-proliferation, chemical warfare](https://www.darpa.mil/news-events/2017-11-17). Benefits include that plants can be easily inserted via seed drops, blend in as sensors with actual plants, and can provide detection signals easily e.g. through dying, leaf color change, etc
 
 Unrelatedly, I just want to say plants are very cool. They have a variety of signalling and networking mechanisms that we barely understand to communicate with another and not enough has been done to explore these abilities. They [scream in ultrasound](https://www.sciencenews.org/article/plant-stress-ultrasonic-click-noise-sound), communicate through the [emission of volatile organic compounds](https://www.sciencenews.org/article/plant-stress-ultrasonic-click-noise-sound), and have networks of fungi connecting them to each other in unknown ways. Also, we can use certain [plants to mine for critical minerals](https://charlesxjyang.github.io/assets/phytomining%20RFI%20response.pdf) aka phytomining.
-
-## Thanks for Reading!
-
-I hope you're as excited as I am about the future of machine learning for solving exciting problems in science. You can find the archive of all past issues [here](https://ml4sci.substack.com/archive) and click [here](https://ml4sci.substack.com/) to subscribe to the newsletter.
-
-Have any questions, feedback, or suggestions for articles? Contact me at [ml4science@gmail.com](mailto:ml4science@gmail.com) or on most platforms as [@charlesxjyang](https://twitter.com/charlesxjyang)
