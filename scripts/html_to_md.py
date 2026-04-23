@@ -23,9 +23,15 @@ class HTMLToMarkdown(HTMLParser):
         self.a_href = ""
         self.list_depth = 0
         self.in_li = False
+        self.skip_depth = 0
 
     def _active(self):
-        return self.in_section and not self.in_nav and not self.in_footer
+        return (
+            self.in_section
+            and not self.in_nav
+            and not self.in_footer
+            and self.skip_depth == 0
+        )
 
     def _flush(self):
         """Push current buffer as a block and reset."""
@@ -45,6 +51,13 @@ class HTMLToMarkdown(HTMLParser):
             return
         if tag == "footer":
             self.in_footer = True
+            return
+
+        if "ai-canary" in attrs_dict.get("class", "").split():
+            self.skip_depth += 1
+            return
+        if self.skip_depth > 0:
+            self.skip_depth += 1
             return
 
         if not self._active():
@@ -96,6 +109,10 @@ class HTMLToMarkdown(HTMLParser):
             return
         if tag == "footer":
             self.in_footer = False
+            return
+
+        if self.skip_depth > 0:
+            self.skip_depth -= 1
             return
 
         if not self._active():
