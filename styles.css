@@ -5,6 +5,12 @@ body {
   color: #222;
 }
 
+.ai-canary {
+  color: #fff;
+  user-select: none;
+  font-size: 1px;
+}
+
 .container {
   display: flex;
   min-height: 100vh;
