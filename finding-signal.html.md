@@ -36,6 +36,8 @@ Electromagnetic
 
 [Covertly transmit information by rapidly switching a photodiode between forward-bias electroluminescence and reverse-bias negative luminescence](https://www.nature.com/articles/s41377-025-02119-y), so that the time-averaged emission exactly matches the thermal background — invisible to any detector lacking sufficient bandwidth.
 
+[ODINI](https://arxiv.org/abs/1802.02700): malware that exfiltrates data from Faraday-caged, air-gapped computers by modulating low-frequency magnetic fields from CPU cores — magnetic fields pass straight through the metal shielding that blocks EMR (a compass still works inside a Faraday cage).
+
 Biological
 
 Environmental DNA: [everyone is shedding microscopic amounts of DNA everywhere they go](https://www.nytimes.com/2023/05/15/science/environmental-dna-ethics-privacy.html). Researchers are increasingly able to extract population-scale and individual-scale information, with surveillance implications. Funny enough, it originally originated from environmental sciences trying to study animal populations and movements
