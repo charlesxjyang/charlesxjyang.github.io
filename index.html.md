@@ -2,15 +2,15 @@
 
 Currently:
 
--  building a bipartisan coalition for industrial policy at [the Center for Industrial Strategy](https://industrialstrategy.org)
+-  Member of Scheming Staff at Anthropic Institute
 
--  philanthropically supporting AI for Science at [Renaissance Philanthropy ](https://www.renaissancephilanthropy.org/)
+-  advisor at [Renaissance Philanthropy ](https://www.renaissancephilanthropy.org/)
 
-- angel investing - bullish on [Corridor](https://corridor.dev/) and [Substrate](https://www.substrate.industries/).
+-  angel investing - bullish on [Corridor](https://corridor.dev/) and [Substrate](https://www.substrate.industries/).
 
 Previously, I worked at the U.S. Department of Energy, [Sambanova](https://sambanova.ai), and a few other places. I also founded a [YIMBY group in my hometown](https://rvayimby.org) and ran an e-bike lending library
 
-I occasionally write on [my substack](https://substack.com/@charlesyang)
+I occasionally write about [AI for Science](https://republicofscience.substack.com) and [my personal thoughts](https://substack.com/@charlesyang) on substack
 
 Words also in [American Affairs](https://americanaffairsjournal.org/2025/02/technological-progress-in-chinese-political-culture-an-intellectual-genealogy/) and [Foreign Policy Magazine](https://foreignpolicy.com/2025/03/04/auto-manufacturing-china-trump-cars/)
 
@@ -20,4 +20,4 @@ You can reach me at contact [at] thisurl
 
 *Romans 3:23; Luke 12:48; Proverbs 15:22*
 
-*Last updated: March 7, 2026*
+*Last updated: June 15, 2026*
