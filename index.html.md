@@ -2,7 +2,7 @@
 
 Currently:
 
--  Chief of Staff at [Anthropic Institute]([url](https://www.anthropic.com/institute))
+-  Chief of Staff at [Anthropic Institute]((https://www.anthropic.com/institute)
 
 -  advisor at [Renaissance Philanthropy ](https://www.renaissancephilanthropy.org/)
 
