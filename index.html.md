@@ -2,7 +2,7 @@
 
 Currently:
 
--  Member of Scheming Staff at Anthropic Institute
+-  Chief of Staff at [Anthropic Institute]([url](https://www.anthropic.com/institute))
 
 -  advisor at [Renaissance Philanthropy ](https://www.renaissancephilanthropy.org/)
 
