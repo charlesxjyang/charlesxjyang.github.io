@@ -77,6 +77,27 @@ main {
   text-decoration: underline;
 }
 
+blockquote {
+  border-left: 3px solid #ddd;
+  margin: 1.8rem 0;
+  padding: 0.2rem 0 0.2rem 1.4rem;
+  color: #333;
+}
+
+blockquote p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  font-style: italic;
+  margin: 0 0 0.6rem 0;
+}
+
+blockquote cite {
+  display: block;
+  font-style: normal;
+  font-size: 0.9rem;
+  color: #666;
+}
+
 .mobile-links {
   display: none;
   text-align: center;
