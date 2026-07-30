@@ -12,24 +12,6 @@ when the food must come in or the fire be put out.
 
 [Marge Piercy, “To Be of Use”](https://www.poetryfoundation.org/poems/57673/to-be-of-use)
 
-Our deepest fear is not that we are inadequate.
-
-Our deepest fear is that we are powerful beyond measure.
-
-It is our light not our darkness that most frightens us.
-
-We ask ourselves, who am I to be brilliant, gorgeous,
-
-talented and fabulous?
-
-Actually, who are you not to be?
-
-You are a child of God.
-
-Your playing small does not serve the world.
-
-[Marianne Williamson, *A Return to Love*](https://www.kirstymaynor.com/blog/our-deepest-fear-by-marianne-williamson)
-
 There are no ordinary people. You have never talked to a mere mortal. Nations, cultures, arts, civilization—these are mortal, and their life is to ours as the life of a gnat.
 
 But it is immortals whom we joke with, work with, marry, snub, and exploit—immortal horrors or everlasting splendours. This does not mean that we are to be perpetually solemn. We must play.
@@ -69,3 +51,21 @@ I wish to preach, not the doctrine of ignoble ease, but the doctrine of the stre
 A life of ignoble ease, a life of that peace which springs merely from lack either of desire or of power to strive after great things, is as little worthy of a nation as of an individual. I ask only that what every self-respecting American demands from himself and from his sons shall be demanded of the American nation as a whole.
 
 [Theodore Roosevelt, “The Strenuous Life”](https://www.gutenberg.org/files/58821/58821-h/58821-h.htm#THE_STRENUOUS_LIFE)
+
+Our deepest fear is not that we are inadequate.
+
+Our deepest fear is that we are powerful beyond measure.
+
+It is our light not our darkness that most frightens us.
+
+We ask ourselves, who am I to be brilliant, gorgeous,
+
+talented and fabulous?
+
+Actually, who are you not to be?
+
+You are a child of God.
+
+Your playing small does not serve the world.
+
+[Marianne Williamson, *A Return to Love*](https://www.kirstymaynor.com/blog/our-deepest-fear-by-marianne-williamson)
