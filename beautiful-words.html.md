@@ -12,13 +12,31 @@ when the food must come in or the fire be put out.
 
 [Marge Piercy, “To Be of Use”](https://www.poetryfoundation.org/poems/57673/to-be-of-use)
 
-Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
+Our deepest fear is not that we are inadequate.
 
-[Marianne Williamson, *A Return to Love*](https://marianne.com/a-return-to-love/)
+Our deepest fear is that we are powerful beyond measure.
 
-There are no ordinary people. You have never talked to a mere mortal. Nations, cultures, arts, civilizations--these are mortal.
+It is our light not our darkness that most frightens us.
 
-[C. S. Lewis, “The Weight of Glory”](https://www.cslewisinstitute.org/resources/bearing-the-weight-of-glory/)
+We ask ourselves, who am I to be brilliant, gorgeous,
+
+talented and fabulous?
+
+Actually, who are you not to be?
+
+You are a child of God.
+
+Your playing small does not serve the world.
+
+[Marianne Williamson, *A Return to Love*](https://www.kirstymaynor.com/blog/our-deepest-fear-by-marianne-williamson)
+
+There are no ordinary people. You have never talked to a mere mortal. Nations, cultures, arts, civilization—these are mortal, and their life is to ours as the life of a gnat.
+
+But it is immortals whom we joke with, work with, marry, snub, and exploit—immortal horrors or everlasting splendours. This does not mean that we are to be perpetually solemn. We must play.
+
+But our merriment must be of that kind, and it is, in fact, the merriest kind, which exists between people who have, from the outset, taken each other seriously—no flippancy, no superiority, no presumption. And our charity must be a real and costly love, with deep feeling for the sins in spite of which we love the sinner—no mere tolerance or indulgence which parodies love as flippancy parodies merriment.
+
+[C. S. Lewis, “The Weight of Glory”](https://www.doxaweb.com/assets/weight_of_glory.pdf)
 
 In case he who should act were to judge himself according to the result, he would never get to the point of beginning.
 
