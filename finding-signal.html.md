@@ -20,6 +20,8 @@ Some of the most creative analyses in terms of extracting signal from noise are 
 
 [Use ground-based seismometers to track atmospheric re-entry of satellite debris](https://nautil.us/i-track-space-debris-as-it-crashes-to-earth-1263197/).
 
+[Thunderquakes](https://www.psu.edu/news/earth-and-mineral-sciences/story/thunderquakes-new-way-image-earths-subsurface): thunder couples atmospheric acoustic waves into the ground, and distributed acoustic sensing — a laser watching phase shifts in backscattered light along ~2.5 miles of buried telecom fiber — records the resulting strain hundreds of times a second every few meters. Enough to use thunderstorms as a free seismic source for imaging the shallow subsurface, which matters most in places with no earthquakes to borrow from (the central and eastern US) or where you can't set off your own (cities, the Arctic, other planets).
+
 Electromagnetic
 
 [Using AI to estimate human pose from Wifi](https://www.ri.cmu.edu/publications/dense-human-pose-estimation-from-wifi/), with obvious implications for surveillance e.g. tracking someone in a crowded mall using ubiquitous Wifi or special operations e.g. knowing what position everyone is standing or sitting in inside of a room
