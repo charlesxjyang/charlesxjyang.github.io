@@ -2,11 +2,11 @@
 
 Currently:
 
--  Chief of Staff at [Anthropic Institute](https://www.anthropic.com/institute)
+-  Member of Scheming Staff at Anthropic Institute
 
 -  advisor at [Renaissance Philanthropy ](https://www.renaissancephilanthropy.org/)
 
--  angel investing - bullish on [Corridor](https://corridor.dev/) and [Substrate](https://www.substrate.industries/).
+-  angel investing - bullish on [Corridor](https://corridor.dev/), [Substrate](https://www.substrate.industries/), and [Capable](https://capable.com/).
 
 Previously, I worked at the U.S. Department of Energy, [Sambanova](https://sambanova.ai), and a few other places. I also founded a [YIMBY group in my hometown](https://rvayimby.org) and ran an e-bike lending library
 
